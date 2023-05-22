@@ -1,0 +1,1 @@
+execute as @e if predicate ucdm:lightning at @s run summon lightning_bolt
