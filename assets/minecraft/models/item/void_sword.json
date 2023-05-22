@@ -2,6 +2,6 @@
     "parent": "item/handheld",
 
     "textures": {
-        "layer0": "item/shybakanium_sword"
+        "layer0": "item/void_sword"
     }
 }
